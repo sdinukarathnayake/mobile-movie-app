@@ -1,1 +1,1 @@
-# mobile-movie-app
+# Mobile Movie App using React Native
